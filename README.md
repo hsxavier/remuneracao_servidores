@@ -30,9 +30,11 @@ Para uma reprodução mais garantida:
 1. Certificar-se de que possui Python 3.4 ou mais recente instalado com os comandos: `python --version` ou `python3 --version`.
 2. Rodar os seguintes comandos:
 
+```
     python3 -m venv env
     source env/bin/activate
     pip install -r requirements.txt 
+```
 
 ## Sobre o projeto
 
