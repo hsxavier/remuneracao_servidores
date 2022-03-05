@@ -31,9 +31,9 @@ Para uma reprodução mais garantida:
 2. Rodar os seguintes comandos:
 
 ```
-    python3 -m venv env
-    source env/bin/activate
-    pip install -r requirements.txt 
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt 
 ```
 
 ## Sobre o projeto
